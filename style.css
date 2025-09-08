@@ -11,7 +11,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(rjnai.png);
+    background-image: url(content/images/rjnai.png);
     background-size: cover;
     background-position: center;
 }
@@ -265,10 +265,6 @@ nav ul li a:hover::after{
     color: #B54769;
     transform: translate(-5px);
 }
-.btn.btn2{
-    display: inline-block;
-    background: #000000;
-}
 .contact-right form{
     width: 100%;
 }
@@ -282,12 +278,6 @@ form input, form textarea{
     color: #fff;
     font-size: 18px;
     border-radius: 6px;
-}
-form .btn2{
-    padding: 10px;
-    font-size: 14px;
-    margin-top: 15px;
-    cursor: pointer;
 }
 .copyright{
     width: 100%;
