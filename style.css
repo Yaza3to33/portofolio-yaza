@@ -9,8 +9,8 @@ body{
     color: #f8f8f8;
 }
 #header{
-    width: 100%;
-    height: 100vh;
+    width: 80%;
+    height: 80vh;
     background-image: url(content/images/rjnai.png);
     background-size: cover;
     background-position: center;
