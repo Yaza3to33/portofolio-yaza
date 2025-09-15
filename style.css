@@ -9,8 +9,9 @@ body{
     color: #f8f8f8;
 }
 #header{
-    width: 80%;
-    height: 80vh;
+    width: 90%;
+    height: 95vh;
+    padding-left: -25px;
     background-image: url(content/images/rjnai.png);
     background-size: cover;
     background-position: center;
@@ -153,7 +154,7 @@ nav ul li a:hover::after{
 
 }
 .tab-contents ul li span{
-    color: #B54769;
+    color: #ff003f;
     font-size: 14px;
 }
 .tab-contents{
@@ -164,6 +165,7 @@ nav ul li a:hover::after{
 }
 
 /*--------------Services-----------*/
+
 #Project{
     padding: 30px 0;
 }
@@ -198,7 +200,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .Project-list div:hover{
-    background: #B54769;
+    background: #ff003f;
     transform: translate(-10);
 }
 
@@ -248,7 +250,7 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 .contact-left p i{
-    color: #B54769;
+    color: #ff003f;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -263,7 +265,7 @@ nav ul li a:hover::after{
     transition: transfom 0.05;
 }
 .social-icons a:hover{
-    color: #B54769;
+    color: #ff003f;
     transform: translate(-5px);
 }
 .contact-right form{
@@ -289,5 +291,5 @@ form input, form textarea{
     margin-top: 0px;
 }
 .copyright i {
-    color: #B54769;
+    color: #ff003f;
 }
